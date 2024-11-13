@@ -1,0 +1,35 @@
+body{
+    background-image: url(im5.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: #ff004f;
+    letter-spacing: 10px;
+    margin-top: 50px;
+}
+h3{
+    color: #db9fb4;
+    font-size: 30px;
+}
+ul{
+    color: black;
+    line-height: 25px;
+    font-size: 20px;
+}
+.main1{
+    display: inline-block;
+    border: 1px solid wheat;
+    padding: 30px;
+    margin: 60px;
+    border-radius: 10px;
+    transition: background 0.5s , transform 0.5s;
+}
+.main1:hover{
+    background: #ff004f;
+    transform: translateY(-10px);
+    color: white;
+}
+.main1 h3:hover{
+    color: black;
+}

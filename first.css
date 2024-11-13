@@ -1,0 +1,21 @@
+body{
+    background-image: url(im1.jpg);
+    background-size: cover;
+}
+.first{
+   text-align: center;
+   color: bisque;
+}
+li{
+   line-height: 25px;
+   font-weight: 500;
+   color:rgb(250, 237, 58);
+}
+h1{
+    color: aqua;
+    font-size: 70px;
+}
+p{
+    color: yellowgreen;
+    font-size: 30px;
+}

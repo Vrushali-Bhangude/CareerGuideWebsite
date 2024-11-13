@@ -1,0 +1,23 @@
+body{
+    background-image: url(im4.jpg);
+    background-size: cover;
+}
+.main2{
+    margin: 100px;
+}
+h1{
+   
+    color: #eeb3c6;
+    letter-spacing: 10px;
+    margin-top: 50px;
+    font-size: 70px;
+}
+h3{
+    color: rgb(245, 245, 126);
+    font-size: 30px;
+}
+ul{
+    line-height: 30px;
+    color: yellowgreen;
+    font-size: 20px;
+}
